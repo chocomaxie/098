@@ -4,7 +4,7 @@ services:
     runtime: docker
     region: singapore
     plan: free
-    branch: try
+    branch: chey
     dockerfilePath: ./Dockerfile
     envVars:
       - key: APP_NAME
